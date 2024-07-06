@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+topics:
+  message:
+    request:
+      topic: "message.request.topic.v1"
